@@ -7,3 +7,4 @@
 7. git push --set-upstream origin main or git push -u :to push your code to github
 8. git branch : to see all the branches
 9. git checkout -b "branchName" : to make another branch
+10. 
